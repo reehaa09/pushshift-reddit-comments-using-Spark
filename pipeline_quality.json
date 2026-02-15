@@ -1,0 +1,24 @@
+{
+  "pipeline_start": "2025-11-28T15:39:51.102509",
+  "pipeline_end": "2025-11-28T15:48:29.057273",
+  "metrics": {
+    "extraction": {
+      "total_records": 3000000,
+      "null_body_records": 0,
+      "deleted_removed_records": 0,
+      "file_size_mb": 1032.9
+    },
+    "transformation": {
+      "initial_records": 3000000,
+      "after_cleaning": 3000000,
+      "cleaning_removed": 0,
+      "final_records": 3000000,
+      "feature_columns": 19
+    },
+    "persistence": {
+      "parquet_partitions": 1,
+      "csv_files": 5,
+      "visualizations": 3
+    }
+  }
+}
