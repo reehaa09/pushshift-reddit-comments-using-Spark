@@ -1,0 +1,14 @@
+[
+  {
+    "sentiment_proxy":"neutral",
+    "count":2555681
+  },
+  {
+    "sentiment_proxy":"positive",
+    "count":412000
+  },
+  {
+    "sentiment_proxy":"negative",
+    "count":32319
+  }
+]
